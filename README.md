@@ -1,7 +1,9 @@
 # My config file for OhMyPosh.
 
 ## OhMyPosh
-Installation and configuration can be found here: [OhMyPosh](https://ohmyposh.dev/)
+- latest installation and configuration instructions can be found here: [OhMyPosh](https://ohmyposh.dev/)
+- download & install "RobotoMono Nerd Font" from [Nerd Fonts](https://www.nerdfonts.com/font-downloads)
+- change font in Terminal
 
 ## Enabling this theme
 To enable this theme in the power shell add the following line to the Microsoft.PowerShell.ps1 file.
