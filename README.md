@@ -7,6 +7,7 @@
 
 ## Enabling this theme
 To enable this theme in the power shell add the following line to the Microsoft.PowerShell.ps1 file.
-- edit profile by entering `notepad $PROFILE` in the terminal
+- edit profile by entering `notepad $PROFILE` in the terminal or by opening
+  - `C:\Users\{USERNAME}\Documents\PowerShell\Microsoft.PowerShell_profile.ps1`
 - add `oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/Korben85/OhMyPoshConfig/main/.mytheme.omp.json' | Invoke-Expression`
 - save the file and reload profile by executing `.$PROFILE` in the terminal or reopen powershell
